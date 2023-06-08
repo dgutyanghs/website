@@ -1,6 +1,6 @@
-baseurl = "/"
-title = "Mainroad"
-languageCode = "en_US"
+baseURL = "/"
+title = "Donnie Blog"
+languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
 #disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
