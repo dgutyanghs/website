@@ -1,0 +1,4 @@
+baseURL = 'https://website-rho-sand-78.vercel.app'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
